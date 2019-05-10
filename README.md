@@ -1,4 +1,4 @@
-# systematic_final_project
+# systematic_investment_final_project
 
 This project was completed by Ruijie (Cherry) Cai (ruijie.cai@stern.nyu.edu),and Zhiyu Chen (zc987@stern.nyu.edu) in partial fulfillment of INFO-UB.52 Robo Advisors and Systematic Trading, Spring 2019. I certify that the NYU Stern Honor Code applies to this project. In particular, I have:
 
