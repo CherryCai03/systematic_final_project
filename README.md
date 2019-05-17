@@ -9,6 +9,6 @@ And I understand that: Submitting the same substaintially similar work in multip
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
 
 # Abstract
-We are exploying in: 
+Project Topic: Stock Price Prediction Using the Na ̈ıve Bayes:A Case Study of Oil Industry in China
 
-This project studies 
+This project examines the validity and efficiency of using Na\"{\i}ve Bayes algorithm to predict Chinese stock market. In particular, we posit oil industry as the focus of our analysis and set out to explore trading strategies on historical data. The result suggests high potentials of applying Na\"{\i}ve Bayes algorithm to forecast stock movements in China when long-period training data is available.
